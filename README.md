@@ -212,4 +212,4 @@ public class AroundHandleExceptionDemoApp {
 	}
 }
 ```
-![image](https://user-images.githubusercontent.com/101872264/217845186-297a4210-6d52-44bd-9532-1b2262215588.png)
+![image](https://user-images.githubusercontent.com/101872264/217845419-3002b4bc-df94-4d5b-bcd2-9b75153fe612.png)
